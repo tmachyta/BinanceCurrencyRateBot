@@ -1,4 +1,4 @@
-package mtm.telegrambinanceapibot.service;
+package mtm.telegrambinanceapibot.service.binance;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;

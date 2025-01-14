@@ -246,5 +246,8 @@
         <module name="SingleSpaceSeparator">
             <property name="validateComments" value="true"/>
         </module>
+        <module name="AvoidEscapedUnicodeCharacters">
+            <property name="allowEscapesForControlCharacters" value="true"/>
+        </module>
     </module>
 </module>

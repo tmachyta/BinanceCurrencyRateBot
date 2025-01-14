@@ -1,7 +1,7 @@
 package mtm.telegrambinanceapibot.config;
 
 import lombok.RequiredArgsConstructor;
-import mtm.telegrambinanceapibot.service.TelegramBot;
+import mtm.telegrambinanceapibot.service.telegram.TelegramBot;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
